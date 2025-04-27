@@ -207,7 +207,6 @@ class Game:
                 self.player_turn = 'X'
 
 
-
 def main():
     g = Game()
     g.play_alpha_beta()
